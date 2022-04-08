@@ -1,2 +1,2 @@
-# OPD_Labs
- Основы профессиональной деятельности 
+# OPD-Labs
+Labs from "Basics of professional activity" course
